@@ -1,0 +1,24 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Database runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+
+# MySQL dump/output artifacts
+*.log
+*.out
+mysql_history
+
+# Local env files (avoid committing credentials)
+.env
+.env.*
